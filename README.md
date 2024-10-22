@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/be608c74-082a-407e-8478-e7ec6802b7fb)
 <h1 align="center">Hi 👋, I'm Dilshan</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
